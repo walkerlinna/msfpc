@@ -2,11 +2,6 @@
 
 A **quick** way to generate various "basic" Meterpreter payloads via `msfvenom` (part of the Metasploit framework).
 
-<p align="center">
-  <img src="http://i.imgur.com/rOqMdwp.png" alt="msfpc logo"/>
-</p>
-
-
 - - -
 
 
